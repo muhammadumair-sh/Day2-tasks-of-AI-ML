@@ -1,7 +1,7 @@
 # Day2-tasks-of-AI-ML
 <div align="center">
 
-##AI Learning Project
+#  AI Learning Project
 
 ### Learning Linux Commands & Project Organization using Google Colab
 
